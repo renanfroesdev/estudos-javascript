@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+p {
+    font-size: 100px;
+}
+.botoes {
+    display: flex;
+    gap: 80px;
+}
+.botoes button {
+    padding: 50px;
+}
